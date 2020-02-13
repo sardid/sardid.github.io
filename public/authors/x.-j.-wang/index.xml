@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. J. Wang | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/x.-j.-wang/</link>
+      <atom:link href="/authors/x.-j.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. J. Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>X. J. Wang</title>
+      <link>/authors/x.-j.-wang/</link>
+    </image>
+    
+    <item>
+      <title>The “tweaking principle” for task switching</title>
+      <link>/publication/ardid-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tweaking principle for executive control: neuronal circuit mechanism for rule-based task switching and conflict resolution</title>
+      <link>/publication/ardid-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling coherent oscillation with modulation of irregular spiking activity in selective attention: gamma-range synchronization between sensory and executive cortical areas</title>
+      <link>/publication/ardid-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated microcircuit model of attentional processing in the neocortex</title>
+      <link>/publication/ardid-2007/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

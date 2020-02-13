@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Cano-Colino | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/maria-cano-colino/</link>
+      <atom:link href="/authors/maria-cano-colino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Cano-Colino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Maria Cano-Colino</title>
+      <link>/authors/maria-cano-colino/</link>
+    </image>
+    
+    <item>
+      <title>Neuroswarm: a methodology to explore the constraints that function imposes on simulation parameters in large-scale networks of biological neurons</title>
+      <link>/publication/gomez-2016-neuroswarm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-neuroswarm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

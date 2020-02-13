@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nancy Kopell | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/nancy-kopell/</link>
+      <atom:link href="/authors/nancy-kopell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nancy Kopell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Nancy Kopell</title>
+      <link>/authors/nancy-kopell/</link>
+    </image>
+    
+    <item>
+      <title>Biased competition in the absence of input bias revealed through corticostriatal computation</title>
+      <link>/publication/ardid-2019-biased/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2019-biased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on Persistent Activity in a Biologically Detailed Network Model of the Prefrontal Cortex with Heterogeneities</title>
+      <link>/publication/hass-2019-constraints/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hass-2019-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased competition in the absence of input bias: predictions from corticostriatal computation</title>
+      <link>/publication/ardid-2018-biased/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2018-biased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraveling action selection and inhibitory control mechanisms in a striatal microcircuit model</title>
+      <link>/publication/ardid-2016-unraveling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2016-unraveling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

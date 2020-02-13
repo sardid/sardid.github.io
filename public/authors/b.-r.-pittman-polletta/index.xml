@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. R. Pittman-Polletta | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/b.-r.-pittman-polletta/</link>
+      <atom:link href="/authors/b.-r.-pittman-polletta/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. R. Pittman-Polletta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>B. R. Pittman-Polletta</title>
+      <link>/authors/b.-r.-pittman-polletta/</link>
+    </image>
+    
+    <item>
+      <title>Biased competition in the absence of input bias revealed through corticostriatal computation</title>
+      <link>/publication/ardid-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DynaSim: A MATLAB Toolbox for Neural Modeling and Simulation</title>
+      <link>/publication/sherfey-2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sherfey-2018-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

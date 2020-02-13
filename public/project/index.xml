@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Salva Ardid | Computational Neuroscientist</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Wed, 31 Dec 1969 19:33:34 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Deep Reinforcement Learning</title>
+      <link>/project/reinforcementlearning/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:34 -0500</pubDate>
+      <guid>/project/reinforcementlearning/</guid>
+      <description>&lt;p&gt;Deep reinforcement learning (deep RL) is the integration of deep learning methods, classically used in supervised or unsupervised learning contexts, with reinforcement learning (RL), a well-studied adaptive control method used in problems with delayed and partial feedback.&lt;/p&gt;
+&lt;p&gt;Home-made textbook on deep RL:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://julien-vitay.net/deeprl&#34;&gt;https://julien-vitay.net/deeprl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+# Theme metadata
+name = "sard1d"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(82, 161, 206)" # "rgb(251, 191, 183)"
+
+# Menu
+menu_primary = "rgb(250, 250, 250)" # "rgb(247, 247, 247)"
+menu_text = "#000"
+menu_text_active = "rgb(25, 25, 25)"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(250, 250, 250)" # "rgb(234, 242, 250)"
+

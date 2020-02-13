@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariann Oemisch | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/mariann-oemisch/</link>
+      <atom:link href="/authors/mariann-oemisch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mariann Oemisch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Mariann Oemisch</title>
+      <link>/authors/mariann-oemisch/</link>
+    </image>
+    
+    <item>
+      <title>Feature-specific prediction errors and surprise across macaque fronto-striatal circuits</title>
+      <link>/publication/oemisch-2019-feature/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/oemisch-2019-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signed and unsigned prediction error signals in macaque fronto-striatal circuit carry information about the preceding feature choice</title>
+      <link>/publication/oemisch-2017-signed/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/oemisch-2017-signed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

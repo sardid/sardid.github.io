@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salva Ardid | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/salva-ardid/</link>
+      <atom:link href="/authors/salva-ardid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Salva Ardid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Thu, 13 Feb 2020 16:38:23 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Salva Ardid</title>
+      <link>/authors/salva-ardid/</link>
+    </image>
+    
+    <item>
+      <title>Prefrontal oscillations modulate the propagation of neuronal activity required for working</title>
+      <link>/publication/sherfeyprefrontal/</link>
+      <pubDate>Thu, 13 Feb 2020 16:38:23 +0000</pubDate>
+      <guid>/publication/sherfeyprefrontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased competition in the absence of input bias revealed through corticostriatal computation</title>
+      <link>/publication/ardid-2019-biased/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2019-biased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on Persistent Activity in a Biologically Detailed Network Model of the Prefrontal Cortex with Heterogeneities</title>
+      <link>/publication/hass-2019-constraints/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hass-2019-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-specific prediction errors and surprise across macaque fronto-striatal circuits</title>
+      <link>/publication/oemisch-2019-feature/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/oemisch-2019-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prefrontal oscillations modulate the propagation of neuronal activity required for working memory</title>
+      <link>/publication/sherfey-2019-prefrontal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sherfey-2019-prefrontal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased competition in the absence of input bias: predictions from corticostriatal computation</title>
+      <link>/publication/ardid-2018-biased/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2018-biased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DynaSim: a MATLAB Toolbox for neural modeling and simulation</title>
+      <link>/publication/sherfey-2018-dynasim/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sherfey-2018-dynasim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible resonance in prefrontal networks with strong feedback inhibition</title>
+      <link>/publication/sherfey-2018-flexible/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sherfey-2018-flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signed and unsigned prediction error signals in macaque fronto-striatal circuit carry information about the preceding feature choice</title>
+      <link>/publication/oemisch-2017-signed/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/oemisch-2017-signed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attentional selection can be predicted by reinforcement learning of task-relevant stimulus features weighted by value-independent stickiness</title>
+      <link>/publication/balcarras-2016-attentional/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/balcarras-2016-attentional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroswarm: a methodology to explore the constraints that function imposes on simulation parameters in large-scale networks of biological neurons</title>
+      <link>/publication/gomez-2016-neuroswarm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-neuroswarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraveling action selection and inhibitory control mechanisms in a striatal microcircuit model</title>
+      <link>/publication/ardid-2016-unraveling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2016-unraveling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anterior cingulate cortex cells identify process-specific errors of attentional control prior to transient prefrontal-cingulate inhibition</title>
+      <link>/publication/shen-2015-anterior/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/shen-2015-anterior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping of functionally characterized cell classes onto canonical circuit operations in primate prefrontal cortex</title>
+      <link>/publication/ardid-2015-mapping/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2015-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burst firing synchronizes prefrontal and anterior cingulate cortex during attentional control</title>
+      <link>/publication/womelsdorf-2014-burst/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/womelsdorf-2014-burst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The “tweaking principle” for task switching</title>
+      <link>/publication/ardid-2014-tweaking/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2014-tweaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Adaptive learning” as a mechanistic candidate for reaching optimal task-set representations flexibly</title>
+      <link>/publication/ardid-2014-adaptive/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2014-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tweaking principle for executive control: neuronal circuit mechanism for rule-based task switching and conflict resolution</title>
+      <link>/publication/ardid-2013-tweaking/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2013-tweaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subnetwork selection in deep cortical layers is mediated by beta-oscillation dependent firing</title>
+      <link>/publication/womelsdorf-2013-subnetwork/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/womelsdorf-2013-subnetwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What can tracking fluctuations in dozens of sensory neurons tell about selective attention?</title>
+      <link>/publication/murray-2011-can/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/murray-2011-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling coherent oscillation with modulation of irregular spiking activity in selective attention: gamma-range synchronization between sensory and executive cortical areas</title>
+      <link>/publication/ardid-2010-reconciling/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2010-reconciling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated microcircuit model of attentional processing in the neocortex</title>
+      <link>/publication/ardid-2007-integrated/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/ardid-2007-integrated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

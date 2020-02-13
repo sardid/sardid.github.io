@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. A. Valiante | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/t.-a.-valiante/</link>
+      <atom:link href="/authors/t.-a.-valiante/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. A. Valiante</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>T. A. Valiante</title>
+      <link>/authors/t.-a.-valiante/</link>
+    </image>
+    
+    <item>
+      <title>Burst firing synchronizes prefrontal and anterior cingulate cortex during attentional control</title>
+      <link>/publication/womelsdorf-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/womelsdorf-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

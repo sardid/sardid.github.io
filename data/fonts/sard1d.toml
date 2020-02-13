@@ -1,0 +1,11 @@
+# Font style metadata
+name = "sard1d"
+
+# Optional Google font URL
+google_fonts = "Rambla:400,700,400italic,700italic|Fira+Mono:400,500,700"
+
+# Font families
+heading_font = "Rambla"
+body_font = "Rambla"
+nav_font = "Rambla"
+mono_font = "Fira Mono"

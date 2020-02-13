@@ -1,0 +1,18 @@
+{
+  "name": "Salva Ardid | Computational Neuroscientist",
+  "short_name": "Salva Ardid | Computational Neuroscientist",
+  "lang": "en-us",
+  "theme_color": "rgb(82, 161, 206)",
+  "background_color": "rgb(82, 161, 206)",
+  "icons": [{
+    "src": "/images/icon_hu162740715fba6a8da2671382fca711f4_7188_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu162740715fba6a8da2671382fca711f4_7188_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

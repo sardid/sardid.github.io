@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evan G. Antzoulatos | Salva Ardid | Computational Neuroscientist</title>
+    <link>/authors/evan-g.-antzoulatos/</link>
+      <atom:link href="/authors/evan-g.-antzoulatos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evan G. Antzoulatos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Tue, 18 Sep 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Evan G. Antzoulatos</title>
+      <link>/authors/evan-g.-antzoulatos/</link>
+    </image>
+    
+    <item>
+      <title>On the role of cortex-basal ganglia interactions for category learning: A neuro-computational approach</title>
+      <link>/publication/villagrasa2018/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 -0400</pubDate>
+      <guid>/publication/villagrasa2018/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/publication/villagrasa2018/model_hu27b7eb85285c90ba4989189366f2107c_298376_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/publication/villagrasa2018/model_hu27b7eb85285c90ba4989189366f2107c_298376_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;998&#34; height=&#34;698&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
