@@ -5,12 +5,140 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sun, 16 Feb 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attention</title>
+      <link>/tags/attention/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>basal-ganglia</title>
+      <link>/tags/basal-ganglia/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/basal-ganglia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biased-competition</title>
+      <link>/tags/biased-competition/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/biased-competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cortex</title>
+      <link>/tags/cortex/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/cortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cortico-striatal-processing</title>
+      <link>/tags/cortico-striatal-processing/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/cortico-striatal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta-learning</title>
+      <link>/tags/meta-learning/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/meta-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiplicative-scaling</title>
+      <link>/tags/multiplicative-scaling/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/multiplicative-scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noise</title>
+      <link>/tags/noise/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oscillations</title>
+      <link>/tags/oscillations/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/oscillations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement-learning</title>
+      <link>/tags/reinforcement-learning/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signal-to-noise</title>
+      <link>/tags/signal-to-noise/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/signal-to-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>striatum</title>
+      <link>/tags/striatum/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/striatum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synchrony</title>
+      <link>/tags/synchrony/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/synchrony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variability</title>
+      <link>/tags/variability/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <guid>/tags/variability/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
