@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Salva Ardid | Computational Neuroscientist</title>
+    <title>Salva Ardid | Salva Ardid | Computational Neuroscientist</title>
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Salva Ardid | Computational Neuroscientist</description>
+    <description>Salva Ardid</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
-      <title>Salva Ardid | Computational Neuroscientist</title>
+      <url>/images/icon_hu8f5684d5d8452e82acae9351d788abd6_32494_512x512_fill_lanczos_center_2.png</url>
+      <title>Salva Ardid</title>
       <link>/authors/admin/</link>
     </image>
     
