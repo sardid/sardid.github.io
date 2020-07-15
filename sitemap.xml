@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tag/aging/</loc>
+    <lastmod>2020-02-16T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/ai/</loc>
     <lastmod>2020-02-18T20:02:14-05:00</lastmod>
   </url>
@@ -23,6 +28,21 @@
   </url>
   
   <url>
+    <loc>/project/cognition-through-the-life-span/</loc>
+    <lastmod>2020-02-16T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cognitive-decline/</loc>
+    <lastmod>2020-02-16T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cognitive-development/</loc>
+    <lastmod>2020-02-16T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/cortex/</loc>
     <lastmod>2020-02-18T20:02:14-05:00</lastmod>
   </url>
@@ -30,6 +50,16 @@
   <url>
     <loc>/tag/cortico-striatal-processing/</loc>
     <lastmod>2020-02-18T20:02:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dynamics/</loc>
+    <lastmod>2020-02-16T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/goal-directed-behavior/</loc>
+    <lastmod>2020-02-16T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +90,11 @@
   <url>
     <loc>/tag/oscillations/</loc>
     <lastmod>2020-02-18T20:02:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plasticity/</loc>
+    <lastmod>2020-02-16T00:00:00+01:00</lastmod>
   </url>
   
   <url>
