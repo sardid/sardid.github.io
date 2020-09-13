@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Salva Ardid | Computational Neuroscientist</title>
+    <title>Publications | Lab of Natural and Designed Intelligence</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -11,6 +11,14 @@
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Prefrontal oscillations modulate the propagation of neuronal activity required for working memory</title>
+      <link>/publication/sherfey-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sherfey-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biased competition in the absence of input bias revealed through corticostriatal computation</title>

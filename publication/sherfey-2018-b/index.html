@@ -23,7 +23,7 @@
   
   
 
-  <meta name="author" content="Salva Ardid">
+  <meta name="author" content="Salva Ardid, PhD">
 
   
   
@@ -37,6 +37,21 @@
 
   
 
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
 
   
   
@@ -56,7 +71,7 @@
   
     
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -67,8 +82,8 @@
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
       
     
 
@@ -196,6 +211,13 @@
 
       
     
+      
+
+      
+      
+
+      
+    
 
   
 
@@ -247,9 +269,9 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Salva Ardid | Computational Neuroscientist">
+  <meta property="og:site_name" content="Lab of Natural and Designed Intelligence">
   <meta property="og:url" content="/publication/sherfey-2018-b/">
-  <meta property="og:title" content="DynaSim: A MATLAB Toolbox for Neural Modeling and Simulation | Salva Ardid | Computational Neuroscientist">
+  <meta property="og:title" content="DynaSim: A MATLAB Toolbox for Neural Modeling and Simulation | Lab of Natural and Designed Intelligence">
   <meta property="og:description" content="DynaSim is an open-source MATLAB/GNU Octave toolbox for rapid prototyping of neural models and batch simulation management. It is designed to speed up and simplify the process of generating, sharing, and exploring network models of neurons with one or more compartments. Models can be specified by equations directly (similar to XPP or the Brian simulator) or by lists of predefined or custom model components. The higher-level specification supports arbitrarily complex population models and networks of interconnected populations. DynaSim also includes a large set of features that simplify exploring model dynamics over parameter spaces, running simulations in parallel using both multicore processors and high-performance computer clusters, and analyzing and plotting large numbers of simulated data sets in parallel. It also includes a graphical user interface (DynaSim GUI) that supports full functionality without requiring user programming. The software has been implemented in MATLAB to enable advanced neural modeling using MATLAB, given its popularity and a growing interest in modeling neural systems. The design of DynaSim incorporates a novel schema for model specification to facilitate future interoperability with other specifications (e.g., NeuroML, SBML), simulators (e.g., NEURON, Brian, NEST), and web-based applications (e.g., Geppetto) outside MATLAB. DynaSim is freely available at http://dynasimtoolbox.org. This tool promises to reduce barriers for investigating dynamics in large neural models, facilitate collaborative modeling, and complement other tools being developed in the neuroinformatics community."><meta property="og:image" content="/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
@@ -292,7 +314,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Salva Ardid | Computational Neuroscientist",
+    "name": "Lab of Natural and Designed Intelligence",
     "logo": {
       "@type": "ImageObject",
       "url": "/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_192x192_fill_lanczos_center_2.png"
@@ -316,10 +338,21 @@
 
 
 
-  <title>DynaSim: A MATLAB Toolbox for Neural Modeling and Simulation | Salva Ardid | Computational Neuroscientist</title>
+  <title>DynaSim: A MATLAB Toolbox for Neural Modeling and Simulation | Lab of Natural and Designed Intelligence</title>
 
 </head>
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/js/load-theme.js"></script>
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -363,9 +396,16 @@
 
 
 
+
+
+
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Lab of Natural and Designed Intelligence</a>
+    </div>
     
 
     
@@ -375,6 +415,10 @@
     </button>
     
 
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Lab of Natural and Designed Intelligence</a>
+    </div>
     
 
     
@@ -394,16 +438,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -423,16 +475,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -452,16 +512,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -481,16 +549,61 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
+            
+            
+              
+            
+            
           
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#openings"><span>Openings</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
           
         
 
@@ -510,10 +623,18 @@
         
 
         
+
         
         
         
         
+
+        
+          
+            
+            
+          
+          
         
 
         <li class="nav-item">
@@ -544,6 +665,7 @@
 
   </div>
 </nav>
+
 
 
   <div class="pub">
@@ -726,12 +848,6 @@
 
 
 
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-  </ul>
-</div>
-
 
 
 
@@ -844,19 +960,19 @@
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js" integrity="sha512-7t8APmYpzEsZP7CYoA7RfMPV9Bb+PJHa9x2WiUnDXZx3XHveuyWUtvNOexhkierl5flZ3tr92dP1mMS+SGlD+A==" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/bash.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/bash.min.js"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/c&#43;&#43;.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/c&#43;&#43;.min.js"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/latex.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/latex.min.js"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/matlab.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/matlab.min.js"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/python.min.js"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/r.min.js"></script>
         
       
 
@@ -870,11 +986,6 @@
     
     
     <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -931,6 +1042,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -943,7 +1057,7 @@
     
     
     
-    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+    <script src="/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
 
     
 
@@ -983,7 +1097,7 @@
   <p class="powered-by">
     
     Published with
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy Website Builder</a>
     
 
     
