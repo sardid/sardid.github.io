@@ -1,0 +1,18 @@
+{
+  "name": "Lab of Natural and Designed Intelligence",
+  "short_name": "Lab of Natural and Designed Intelligence",
+  "lang": "en-us",
+  "theme_color": "rgb(82, 161, 206)",
+  "background_color": "rgb(82, 161, 206)",
+  "icons": [{
+    "src": "/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

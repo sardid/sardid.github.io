@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab of Natural and Designed Intelligence</title>
+    <link>https://sardid.github.io/</link>
+      <atom:link href="https://sardid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lab of Natural and Designed Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <title>Lab of Natural and Designed Intelligence</title>
+      <link>https://sardid.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Openings at the interphase of Computational Neuroscience and AI</title>
+      <link>https://sardid.github.io/opening/openings-at-the-interphase-of-computational-neuroscience-and-ai/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0200</pubDate>
+      <guid>https://sardid.github.io/opening/openings-at-the-interphase-of-computational-neuroscience-and-ai/</guid>
+      <description>&lt;p&gt;There are new openings, 2 PhD Candidate positions and 2 Research Assistant positions, in our Lab to participate in research projects related to Artificial Intelligence, Computational Cognitive Neuroscience, and their interphase.&lt;/p&gt;
+&lt;!-- &lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+ --&gt;
+&lt;p&gt;Candidates for these positions are expected to have a quantitative background and strong interests in at least one of the following goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Apply state-of-the-art machine learning algorithms and/or neural circuit modeling to address questions in Life Sciences and Physics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adapt computationally efficient cognitive mechanisms into AI architectures (such as deep neural networks) aiming for more powerful learning algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify physiological mechanisms of brain function and dysfunction, in particular, the neural substrates of learning governing flexible, goal-directed behavior.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Candidates should have a background in Computer Science, Electric Engineering, Physics, Math, Biology, or Psychology, and good programming skills (e.g., Python, R, Matlab, JavaScript, C++). Knowledge of dynamical systems modeling, time series analysis, machine learning and/or computational neuroscience would be an advantage. Applicants for the PhD Candidate positions should have a Master degree, and applicants for the Research Assistant positions should have a Bachelor degree. Due to Spanish regulations, only Spanish citizens and foreign citizens with a residence permit are eligible.&lt;/p&gt;
+&lt;p&gt;Please note that the open period to apply is October 8-23. Year gross salary is 17,500 € for the PhD Candidates (renewable for up to 3 years) and 15,000 € for the Research Assistant Positions (even though the final salary will be prorated from the starting date until end of June 2021).&lt;/p&gt;
+&lt;p&gt;Candidates from under-represented groups are strongly encouraged to apply. Our Lab is inclusive and committed to equity and diversity. Applicants interested in these openings please &lt;a href=&#34;../../#contact&#34;&gt;contact us&lt;/a&gt; as soon as possible to know how to apply, since no formal application will be eligible if submitted after October 23.&lt;/p&gt;
+&lt;p&gt;A brief note on our Lab&amp;rsquo;s location: Our group is located at the UPV campus in Gandia. Gandia is a historical, cultural, and touristic city located on the shoreline of eastern Spain, 65 km (40 mi) south of València (about 1 hour by train/car). València is the third most popular city in Spain after Barcelona and Madrid. The cost of living of València is significantly lower than that of Barcelona and Madrid (and this is even further the case for Gandia).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prefrontal oscillations modulate the propagation of neuronal activity required for working memory</title>
+      <link>https://sardid.github.io/publication/sherfey-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/sherfey-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognition across the life span</title>
+      <link>https://sardid.github.io/project/cognition-across-the-life-span/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://sardid.github.io/project/cognition-across-the-life-span/</guid>
+      <description>&lt;p&gt;Goal-directed behavior results from the interaction of bottom-up sensory processing and top-down executive control. At short timescales, neural activity underlying this interaction is regulated by learning and homeostatic mechanisms, which are mediated through synaptic plasticity and neuromodulation. At a much longer timescale, arching from cognitive development to aging, neural activity is strongly influenced by changes in brain anatomy and functional connectivity.&lt;/p&gt;
+&lt;p&gt;Studies that analyze behavioral flexibility throughout this hierarchy of timescales are rare. This line of research utilizes a rule-based decision task and combines experimental procedures (psychophysics and neuroimaging) with computational approaches (reinforcement learning and neural circuit modeling) to encompass the dynamics, rise and decline of goal-directed behavior in humans.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Reinforcement Learning</title>
+      <link>https://sardid.github.io/project/meta-reinforcement-learning/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/project/meta-reinforcement-learning/</guid>
+      <description>&lt;p&gt;Meta-reinforcement learning refers to embedding meta-learning (i.e., higher-order learning) mechanisms in reinforcement learning (RL) models.&lt;/p&gt;
+&lt;p&gt;I have used this approach to significantly improve a repertoire of RL models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Value-based RL models (e.g., Rescorla-Wagner)&lt;/li&gt;
+&lt;li&gt;Paired State-Action value-based RL models (e.g., Q-learning)&lt;/li&gt;
+&lt;li&gt;RL models applied to predict time-series signals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this approach, learning rates are dynamically adjusted. This foundation is different yet of similar philosophy to previous RL models, such as that of Pearce and Hall, or especially, that of Mackintosh.&lt;/p&gt;
+&lt;p&gt;The main difference is that here learning rates follow continuous integration (of information). As a result, these meta-reinforcement learning models are able to distinguish between good, bad and ugly abstract feature representations, according to their predictability of reward: positive prediction, negative prediction, or noise, respectively.&lt;/p&gt;
+&lt;p&gt;This higher-order learning is recursively used in the models to prioritize information processing, whether it refers to sensory information, proper actions, context-dependent information, or the optimal path in a grid world. It is particularly remarkable as well, how the Nash equilibrium of stochastic choice naturally emerges from this meta-reinforcement learning model in competing mixed-strategy games such as the matching pennies task.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selective Attention</title>
+      <link>https://sardid.github.io/project/selective-attention/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/project/selective-attention/</guid>
+      <description>&lt;p&gt;Cortical neurons in sensory areas show patterns of irregular firing that are, however, synchronized to, e.g., gamma oscillations. This regime of noisy oscillations is further reinforced by selective attention, which arises questions such as: why do regular and irregular components appear simultaneously? is this regime of noisy oscillations functionally relevant? are oscillations reducing noise?&lt;/p&gt;
+&lt;p&gt;Aiming to address these questions, I developed a neural circuit model of attentional processing (Ardid et al., J Neurosci 2007, 2010). According to this model:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Noise from neural variability underlies multiplicative scaling of firing rate. Hence, a modest increase in input, such as that of top-down attentional modulation, is supra-linearly amplified. At the neuron level, this means that the higher the reference firing was in absence of attentional modulation, the stronger the output firing becomes for the target neuron with attention.&lt;/li&gt;
+&lt;li&gt;At the population level, visual neurons, such as those in MT and V4, show divisive normalization. In the model this is achieved by global inhibition. One local excitation and global inhibition are combined in the model, the prediction is that the net effect from top-down attention is a signal-to-noise (S/N) enhancement. More precisely, the firing rate of each neuron is either multiplicatively or divisively scaled by a factor that varies according to the distance with respect to the attentional focus.&lt;/li&gt;
+&lt;li&gt;Remarkably, the model shows that S/N enhancement is further reinforced in the regime of noisy oscillations. Hence, the model predicts that noisy oscillations represents the best of the two worlds: (1) noise underlies multiplicative scaling (the basis for attentional S/N enhancement), and (2) oscillations, instead of reverting noise, build upon it and reinforce the S/N enhancement.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unbiased Competition</title>
+      <link>https://sardid.github.io/project/unbiased-competition/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/project/unbiased-competition/</guid>
+      <description>&lt;p&gt;Unlike Biased Competition, Unbiased Competition is resolved internally, i.e., in the absence of external biases. In Ardid et al. PNAS (2019), I identified how dissimilarities in the physiology of competing neural populations determine the direction of the resulting bias according to the characteristics of unbiased external inputs.&lt;/p&gt;
+&lt;p&gt;There are three general ways in which Unbiased Competition may occur:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;When one competing neural population shows higher excitability for a given unbalanced input strength → higher mean firing rate.&lt;/li&gt;
+&lt;li&gt;When one competing neural population shows a stronger synchronization with the unbalanced external input → higher instantaneous firing rate.&lt;/li&gt;
+&lt;li&gt;The third possibility is a combination of the previous two. In this case the two competing neural populations can simultaneously show biases at different timescale → one population shows higher mean firing rate, whereas the other population shows higher instantaneous firing rate.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In Ardid et al. PNAS (2019) I realized a model of corticostriatal processing where these three alternatives naturally emerge out of the physiology of D1 and D2 spiny projection neurons (SPNs). However, according to experimental evidence in prefrontal cortex, only the option 2 above is consistent in biasing action selection (D1 SPNs) vs. inhibitory control (D2 SPNs) in the context of rule-based decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biased competition in the absence of input bias revealed through corticostriatal computation</title>
+      <link>https://sardid.github.io/publication/ardid-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-specific prediction errors and surprise across macaque fronto-striatal circuits</title>
+      <link>https://sardid.github.io/publication/oemisch-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/oemisch-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible resonance in prefrontal networks with strong feedback inhibition</title>
+      <link>https://sardid.github.io/publication/sherfey-2018-a/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/sherfey-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://sardid.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://sardid.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DynaSim: A MATLAB Toolbox for Neural Modeling and Simulation</title>
+      <link>https://sardid.github.io/publication/sherfey-2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/sherfey-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational psychiatry approach identifies how alpha-2A noradrenergic agonist Guanfacine affects feature-based reinforcement learning in the macaque</title>
+      <link>https://sardid.github.io/publication/hassani-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/hassani-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attentional Selection Can Be Predicted by Reinforcement Learning of Task-relevant Stimulus Features Weighted by Value-independent Stickiness</title>
+      <link>https://sardid.github.io/publication/balcarras-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/balcarras-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroswarm: a methodology to explore the constraints that function imposes on simulation parameters in large-scale networks of biological neurons</title>
+      <link>https://sardid.github.io/publication/gomez-cabrero-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/gomez-cabrero-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anterior Cingulate Cortex Cells Identify Process-Specific Errors of Attentional Control Prior to Transient Prefrontal-Cingulate Inhibition</title>
+      <link>https://sardid.github.io/publication/shen-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/shen-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping of functionally characterized cell classes onto canonical circuit operations in primate prefrontal cortex</title>
+      <link>https://sardid.github.io/publication/ardid-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burst firing synchronizes prefrontal and anterior cingulate cortex during attentional control</title>
+      <link>https://sardid.github.io/publication/womelsdorf-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/womelsdorf-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The “tweaking principle” for task switching</title>
+      <link>https://sardid.github.io/publication/ardid-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Adaptive learning” as a mechanistic candidate for reaching optimal task-set representations flexibly</title>
+      <link>https://sardid.github.io/publication/ardid-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tweaking principle for executive control: neuronal circuit mechanism for rule-based task switching and conflict resolution</title>
+      <link>https://sardid.github.io/publication/ardid-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subnetwork selection in deep cortical layers is mediated by beta-oscillation dependent firing</title>
+      <link>https://sardid.github.io/publication/womelsdorf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/womelsdorf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Can Tracking Fluctuations in Dozens of Sensory Neurons Tell about Selective Attention?</title>
+      <link>https://sardid.github.io/publication/murray-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/murray-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling coherent oscillation with modulation of irregular spiking activity in selective attention: gamma-range synchronization between sensory and executive cortical areas</title>
+      <link>https://sardid.github.io/publication/ardid-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated microcircuit model of attentional processing in the neocortex</title>
+      <link>https://sardid.github.io/publication/ardid-2007/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

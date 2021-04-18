@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta-learning | Lab of Natural and Designed Intelligence</title>
+    <link>https://sardid.github.io/tag/meta-learning/</link>
+      <atom:link href="https://sardid.github.io/tag/meta-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>meta-learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <title>meta-learning</title>
+      <link>https://sardid.github.io/tag/meta-learning/</link>
+    </image>
+    
+    <item>
+      <title>Meta-Reinforcement Learning</title>
+      <link>https://sardid.github.io/project/meta-reinforcement-learning/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/project/meta-reinforcement-learning/</guid>
+      <description>&lt;p&gt;Meta-reinforcement learning refers to embedding meta-learning (i.e., higher-order learning) mechanisms in reinforcement learning (RL) models.&lt;/p&gt;
+&lt;p&gt;I have used this approach to significantly improve a repertoire of RL models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Value-based RL models (e.g., Rescorla-Wagner)&lt;/li&gt;
+&lt;li&gt;Paired State-Action value-based RL models (e.g., Q-learning)&lt;/li&gt;
+&lt;li&gt;RL models applied to predict time-series signals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this approach, learning rates are dynamically adjusted. This foundation is different yet of similar philosophy to previous RL models, such as that of Pearce and Hall, or especially, that of Mackintosh.&lt;/p&gt;
+&lt;p&gt;The main difference is that here learning rates follow continuous integration (of information). As a result, these meta-reinforcement learning models are able to distinguish between good, bad and ugly abstract feature representations, according to their predictability of reward: positive prediction, negative prediction, or noise, respectively.&lt;/p&gt;
+&lt;p&gt;This higher-order learning is recursively used in the models to prioritize information processing, whether it refers to sensory information, proper actions, context-dependent information, or the optimal path in a grid world. It is particularly remarkable as well, how the Nash equilibrium of stochastic choice naturally emerges from this meta-reinforcement learning model in competing mixed-strategy games such as the matching pennies task.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plasticity | Lab of Natural and Designed Intelligence</title>
+    <link>https://sardid.github.io/tag/plasticity/</link>
+      <atom:link href="https://sardid.github.io/tag/plasticity/index.xml" rel="self" type="application/rss+xml" />
+    <description>plasticity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <title>plasticity</title>
+      <link>https://sardid.github.io/tag/plasticity/</link>
+    </image>
+    
+    <item>
+      <title>Cognition across the life span</title>
+      <link>https://sardid.github.io/project/cognition-across-the-life-span/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://sardid.github.io/project/cognition-across-the-life-span/</guid>
+      <description>&lt;p&gt;Goal-directed behavior results from the interaction of bottom-up sensory processing and top-down executive control. At short timescales, neural activity underlying this interaction is regulated by learning and homeostatic mechanisms, which are mediated through synaptic plasticity and neuromodulation. At a much longer timescale, arching from cognitive development to aging, neural activity is strongly influenced by changes in brain anatomy and functional connectivity.&lt;/p&gt;
+&lt;p&gt;Studies that analyze behavioral flexibility throughout this hierarchy of timescales are rare. This line of research utilizes a rule-based decision task and combines experimental procedures (psychophysics and neuroimaging) with computational approaches (reinforcement learning and neural circuit modeling) to encompass the dynamics, rise and decline of goal-directed behavior in humans.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

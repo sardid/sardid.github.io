@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lab of Natural and Designed Intelligence</title>
+    <link>https://sardid.github.io/publication/</link>
+      <atom:link href="https://sardid.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright>
+    <image>
+      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://sardid.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Prefrontal oscillations modulate the propagation of neuronal activity required for working memory</title>
+      <link>https://sardid.github.io/publication/sherfey-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/sherfey-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased competition in the absence of input bias revealed through corticostriatal computation</title>
+      <link>https://sardid.github.io/publication/ardid-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-specific prediction errors and surprise across macaque fronto-striatal circuits</title>
+      <link>https://sardid.github.io/publication/oemisch-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/oemisch-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible resonance in prefrontal networks with strong feedback inhibition</title>
+      <link>https://sardid.github.io/publication/sherfey-2018-a/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/sherfey-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DynaSim: A MATLAB Toolbox for Neural Modeling and Simulation</title>
+      <link>https://sardid.github.io/publication/sherfey-2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/sherfey-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational psychiatry approach identifies how alpha-2A noradrenergic agonist Guanfacine affects feature-based reinforcement learning in the macaque</title>
+      <link>https://sardid.github.io/publication/hassani-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/hassani-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attentional Selection Can Be Predicted by Reinforcement Learning of Task-relevant Stimulus Features Weighted by Value-independent Stickiness</title>
+      <link>https://sardid.github.io/publication/balcarras-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/balcarras-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroswarm: a methodology to explore the constraints that function imposes on simulation parameters in large-scale networks of biological neurons</title>
+      <link>https://sardid.github.io/publication/gomez-cabrero-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/gomez-cabrero-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anterior Cingulate Cortex Cells Identify Process-Specific Errors of Attentional Control Prior to Transient Prefrontal-Cingulate Inhibition</title>
+      <link>https://sardid.github.io/publication/shen-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/shen-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping of functionally characterized cell classes onto canonical circuit operations in primate prefrontal cortex</title>
+      <link>https://sardid.github.io/publication/ardid-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burst firing synchronizes prefrontal and anterior cingulate cortex during attentional control</title>
+      <link>https://sardid.github.io/publication/womelsdorf-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/womelsdorf-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The “tweaking principle” for task switching</title>
+      <link>https://sardid.github.io/publication/ardid-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Adaptive learning” as a mechanistic candidate for reaching optimal task-set representations flexibly</title>
+      <link>https://sardid.github.io/publication/ardid-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tweaking principle for executive control: neuronal circuit mechanism for rule-based task switching and conflict resolution</title>
+      <link>https://sardid.github.io/publication/ardid-2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subnetwork selection in deep cortical layers is mediated by beta-oscillation dependent firing</title>
+      <link>https://sardid.github.io/publication/womelsdorf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/womelsdorf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Can Tracking Fluctuations in Dozens of Sensory Neurons Tell about Selective Attention?</title>
+      <link>https://sardid.github.io/publication/murray-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/murray-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling coherent oscillation with modulation of irregular spiking activity in selective attention: gamma-range synchronization between sensory and executive cortical areas</title>
+      <link>https://sardid.github.io/publication/ardid-2010/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integrated microcircuit model of attentional processing in the neocortex</title>
+      <link>https://sardid.github.io/publication/ardid-2007/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://sardid.github.io/publication/ardid-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

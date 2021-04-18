@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Lab of Natural and Designed Intelligence</title>
+    <link>https://sardid.github.io/project/</link>
+      <atom:link href="https://sardid.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://sardid.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Cognition across the life span</title>
+      <link>https://sardid.github.io/project/cognition-across-the-life-span/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+      <guid>https://sardid.github.io/project/cognition-across-the-life-span/</guid>
+      <description>&lt;p&gt;Goal-directed behavior results from the interaction of bottom-up sensory processing and top-down executive control. At short timescales, neural activity underlying this interaction is regulated by learning and homeostatic mechanisms, which are mediated through synaptic plasticity and neuromodulation. At a much longer timescale, arching from cognitive development to aging, neural activity is strongly influenced by changes in brain anatomy and functional connectivity.&lt;/p&gt;
+&lt;p&gt;Studies that analyze behavioral flexibility throughout this hierarchy of timescales are rare. This line of research utilizes a rule-based decision task and combines experimental procedures (psychophysics and neuroimaging) with computational approaches (reinforcement learning and neural circuit modeling) to encompass the dynamics, rise and decline of goal-directed behavior in humans.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Reinforcement Learning</title>
+      <link>https://sardid.github.io/project/meta-reinforcement-learning/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/project/meta-reinforcement-learning/</guid>
+      <description>&lt;p&gt;Meta-reinforcement learning refers to embedding meta-learning (i.e., higher-order learning) mechanisms in reinforcement learning (RL) models.&lt;/p&gt;
+&lt;p&gt;I have used this approach to significantly improve a repertoire of RL models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Value-based RL models (e.g., Rescorla-Wagner)&lt;/li&gt;
+&lt;li&gt;Paired State-Action value-based RL models (e.g., Q-learning)&lt;/li&gt;
+&lt;li&gt;RL models applied to predict time-series signals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this approach, learning rates are dynamically adjusted. This foundation is different yet of similar philosophy to previous RL models, such as that of Pearce and Hall, or especially, that of Mackintosh.&lt;/p&gt;
+&lt;p&gt;The main difference is that here learning rates follow continuous integration (of information). As a result, these meta-reinforcement learning models are able to distinguish between good, bad and ugly abstract feature representations, according to their predictability of reward: positive prediction, negative prediction, or noise, respectively.&lt;/p&gt;
+&lt;p&gt;This higher-order learning is recursively used in the models to prioritize information processing, whether it refers to sensory information, proper actions, context-dependent information, or the optimal path in a grid world. It is particularly remarkable as well, how the Nash equilibrium of stochastic choice naturally emerges from this meta-reinforcement learning model in competing mixed-strategy games such as the matching pennies task.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selective Attention</title>
+      <link>https://sardid.github.io/project/selective-attention/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/project/selective-attention/</guid>
+      <description>&lt;p&gt;Cortical neurons in sensory areas show patterns of irregular firing that are, however, synchronized to, e.g., gamma oscillations. This regime of noisy oscillations is further reinforced by selective attention, which arises questions such as: why do regular and irregular components appear simultaneously? is this regime of noisy oscillations functionally relevant? are oscillations reducing noise?&lt;/p&gt;
+&lt;p&gt;Aiming to address these questions, I developed a neural circuit model of attentional processing (Ardid et al., J Neurosci 2007, 2010). According to this model:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Noise from neural variability underlies multiplicative scaling of firing rate. Hence, a modest increase in input, such as that of top-down attentional modulation, is supra-linearly amplified. At the neuron level, this means that the higher the reference firing was in absence of attentional modulation, the stronger the output firing becomes for the target neuron with attention.&lt;/li&gt;
+&lt;li&gt;At the population level, visual neurons, such as those in MT and V4, show divisive normalization. In the model this is achieved by global inhibition. One local excitation and global inhibition are combined in the model, the prediction is that the net effect from top-down attention is a signal-to-noise (S/N) enhancement. More precisely, the firing rate of each neuron is either multiplicatively or divisively scaled by a factor that varies according to the distance with respect to the attentional focus.&lt;/li&gt;
+&lt;li&gt;Remarkably, the model shows that S/N enhancement is further reinforced in the regime of noisy oscillations. Hence, the model predicts that noisy oscillations represents the best of the two worlds: (1) noise underlies multiplicative scaling (the basis for attentional S/N enhancement), and (2) oscillations, instead of reverting noise, build upon it and reinforce the S/N enhancement.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unbiased Competition</title>
+      <link>https://sardid.github.io/project/unbiased-competition/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://sardid.github.io/project/unbiased-competition/</guid>
+      <description>&lt;p&gt;Unlike Biased Competition, Unbiased Competition is resolved internally, i.e., in the absence of external biases. In Ardid et al. PNAS (2019), I identified how dissimilarities in the physiology of competing neural populations determine the direction of the resulting bias according to the characteristics of unbiased external inputs.&lt;/p&gt;
+&lt;p&gt;There are three general ways in which Unbiased Competition may occur:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;When one competing neural population shows higher excitability for a given unbalanced input strength → higher mean firing rate.&lt;/li&gt;
+&lt;li&gt;When one competing neural population shows a stronger synchronization with the unbalanced external input → higher instantaneous firing rate.&lt;/li&gt;
+&lt;li&gt;The third possibility is a combination of the previous two. In this case the two competing neural populations can simultaneously show biases at different timescale → one population shows higher mean firing rate, whereas the other population shows higher instantaneous firing rate.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In Ardid et al. PNAS (2019) I realized a model of corticostriatal processing where these three alternatives naturally emerge out of the physiology of D1 and D2 spiny projection neurons (SPNs). However, according to experimental evidence in prefrontal cortex, only the option 2 above is consistent in biasing action selection (D1 SPNs) vs. inhibitory control (D2 SPNs) in the context of rule-based decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
