@@ -1,44 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI | Lab of Natural and Designed Intelligence</title>
+    <title>AI | Salva Ardid site</title>
     <link>https://sardid.github.io/tag/ai/</link>
       <atom:link href="https://sardid.github.io/tag/ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_3.png</url>
       <title>AI</title>
       <link>https://sardid.github.io/tag/ai/</link>
     </image>
-    
-    <item>
-      <title>Openings at the interphase of Computational Neuroscience and AI</title>
-      <link>https://sardid.github.io/opening/openings-at-the-interphase-of-computational-neuroscience-and-ai/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://sardid.github.io/opening/openings-at-the-interphase-of-computational-neuroscience-and-ai/</guid>
-      <description>&lt;p&gt;There are new openings, 2 PhD Candidate positions and 2 Research Assistant positions, in our Lab to participate in research projects related to Artificial Intelligence, Computational Cognitive Neuroscience, and their interphase.&lt;/p&gt;
-&lt;!-- &lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
- --&gt;
-&lt;p&gt;Candidates for these positions are expected to have a quantitative background and strong interests in at least one of the following goals:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Apply state-of-the-art machine learning algorithms and/or neural circuit modeling to address questions in Life Sciences and Physics.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Adapt computationally efficient cognitive mechanisms into AI architectures (such as deep neural networks) aiming for more powerful learning algorithms.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Identify physiological mechanisms of brain function and dysfunction, in particular, the neural substrates of learning governing flexible, goal-directed behavior.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Candidates should have a background in Computer Science, Electric Engineering, Physics, Math, Biology, or Psychology, and good programming skills (e.g., Python, R, Matlab, JavaScript, C++). Knowledge of dynamical systems modeling, time series analysis, machine learning and/or computational neuroscience would be an advantage. Applicants for the PhD Candidate positions should have a Master degree, and applicants for the Research Assistant positions should have a Bachelor degree. Due to Spanish regulations, only Spanish citizens and foreign citizens with a residence permit are eligible.&lt;/p&gt;
-&lt;p&gt;Please note that the open period to apply is October 8-23. Year gross salary is 17,500 € for the PhD Candidates (renewable for up to 3 years) and 15,000 € for the Research Assistant Positions (even though the final salary will be prorated from the starting date until end of June 2021).&lt;/p&gt;
-&lt;p&gt;Candidates from under-represented groups are strongly encouraged to apply. Our Lab is inclusive and committed to equity and diversity. Applicants interested in these openings please &lt;a href=&#34;../../#contact&#34;&gt;contact us&lt;/a&gt; as soon as possible to know how to apply, since no formal application will be eligible if submitted after October 23.&lt;/p&gt;
-&lt;p&gt;A brief note on our Lab&amp;rsquo;s location: Our group is located at the UPV campus in Gandia. Gandia is a historical, cultural, and touristic city located on the shoreline of eastern Spain, 65 km (40 mi) south of València (about 1 hour by train/car). València is the third most popular city in Spain after Barcelona and Madrid. The cost of living of València is significantly lower than that of Barcelona and Madrid (and this is even further the case for Gandia).&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Meta-Reinforcement Learning</title>

@@ -2,27 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sardid.github.io/tag/ai/</loc>
-    <lastmod>2020-10-25T20:46:44+01:00</lastmod>
-  </url><url>
-    <loc>https://sardid.github.io/tag/computational-neuroscience/</loc>
-    <lastmod>2020-10-25T20:46:44+01:00</lastmod>
-  </url><url>
-    <loc>https://sardid.github.io/</loc>
-    <lastmod>2020-10-25T20:46:44+01:00</lastmod>
-  </url><url>
-    <loc>https://sardid.github.io/tag/opening/</loc>
-    <lastmod>2020-10-25T20:46:44+01:00</lastmod>
-  </url><url>
-    <loc>https://sardid.github.io/opening/</loc>
-    <lastmod>2020-10-25T20:46:44+01:00</lastmod>
-  </url><url>
-    <loc>https://sardid.github.io/opening/openings-at-the-interphase-of-computational-neuroscience-and-ai/</loc>
-    <lastmod>2020-10-25T20:46:44+01:00</lastmod>
-  </url><url>
-    <loc>https://sardid.github.io/tags/</loc>
-    <lastmod>2020-10-25T20:46:44+01:00</lastmod>
-  </url><url>
     <loc>https://sardid.github.io/publication-type/2/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,6 +10,9 @@
   </url><url>
     <loc>https://sardid.github.io/publication_types/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sardid.github.io/</loc>
+    <lastmod>2020-10-21T23:38:06+01:00</lastmod>
   </url><url>
     <loc>https://sardid.github.io/tag/aging/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
@@ -54,6 +36,12 @@
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sardid.github.io/project/</loc>
+    <lastmod>2020-07-15T17:46:36+02:00</lastmod>
+  </url><url>
+    <loc>https://sardid.github.io/tags/</loc>
+    <lastmod>2020-07-15T17:46:36+02:00</lastmod>
+  </url><url>
+    <loc>https://sardid.github.io/tag/ai/</loc>
     <lastmod>2020-07-15T17:46:36+02:00</lastmod>
   </url><url>
     <loc>https://sardid.github.io/tag/attention/</loc>
