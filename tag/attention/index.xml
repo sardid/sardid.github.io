@@ -5,9 +5,9 @@
     <link>https://sardid.github.io/tag/attention/</link>
       <atom:link href="https://sardid.github.io/tag/attention/index.xml" rel="self" type="application/rss+xml" />
     <description>attention</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_3.png</url>
       <title>attention</title>
       <link>https://sardid.github.io/tag/attention/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Selective Attention</title>
       <link>https://sardid.github.io/project/selective-attention/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://sardid.github.io/project/selective-attention/</guid>
       <description>&lt;p&gt;Cortical neurons in sensory areas show patterns of irregular firing that are, however, synchronized to, e.g., gamma oscillations. This regime of noisy oscillations is further reinforced by selective attention, which arises questions such as: why do regular and irregular components appear simultaneously? is this regime of noisy oscillations functionally relevant? are oscillations reducing noise?&lt;/p&gt;
 &lt;p&gt;Aiming to address these questions, I developed a neural circuit model of attentional processing (Ardid et al., J Neurosci 2007, 2010). According to this model:&lt;/p&gt;

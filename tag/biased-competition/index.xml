@@ -5,9 +5,9 @@
     <link>https://sardid.github.io/tag/biased-competition/</link>
       <atom:link href="https://sardid.github.io/tag/biased-competition/index.xml" rel="self" type="application/rss+xml" />
     <description>biased-competition</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sardid.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_3.png</url>
       <title>biased-competition</title>
       <link>https://sardid.github.io/tag/biased-competition/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Unbiased Competition</title>
       <link>https://sardid.github.io/project/unbiased-competition/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://sardid.github.io/project/unbiased-competition/</guid>
       <description>&lt;p&gt;Unlike Biased Competition, Unbiased Competition is resolved internally, i.e., in the absence of external biases. In Ardid et al. PNAS (2019), I identified how dissimilarities in the physiology of competing neural populations determine the direction of the resulting bias according to the characteristics of unbiased external inputs.&lt;/p&gt;
 &lt;p&gt;There are three general ways in which Unbiased Competition may occur:&lt;/p&gt;
